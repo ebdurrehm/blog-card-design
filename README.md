@@ -1,2 +1,2 @@
 # blog-card-design
-s
+Example blog card using only html and css.
